@@ -4,4 +4,7 @@ setelah install npm lakukan run build, pada php) npm run build
 lalu lakukan migrasi database, pada php) php artisan migrate
 lalu generate APP KEY pada env, pada php) php artisan key:generate
 
+duplikat file env.example menjadi env
+sesuaikan localhost dan port pada env
+
 lalu website sudah siap di gunakan
